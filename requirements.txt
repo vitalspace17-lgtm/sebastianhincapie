@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+aiosmtplib
+pydantic>=2
+pydantic-settings>=2
+jinja2
+python-multipart
