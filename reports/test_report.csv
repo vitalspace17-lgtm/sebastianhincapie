@@ -1,0 +1,42 @@
+email,status,error
+aportillo@mac.com,sent,
+ap@aapcapital.biz,sent,
+aportillo@insurepartners.net,sent,
+armando.portillo@ymail.com,sent,
+ap@getmyerc.com,sent,
+eca@aapcapital.biz,sent,
+Armando@seguroscitadel.com,sent,
+Esty@insurepartners.net,sent,
+Info@pcfilings.com,sent,
+ap@aapcapitaladvisory.com,sent,
+sebastianhincapie204@gmail.com,sent,
+dev@nationalfilingcorporation.com,sent,
+2025-09-28T20:55:05.648125+00:00,1,sandjsolutions21@gmail.com,failed,magic_http_404
+2025-09-28T20:55:06.393814+00:00,2,muthoni1982@gmail.com,failed,magic_http_404
+2025-09-28T20:55:07.164350+00:00,3,pauls3rp@yahoo.com,failed,magic_http_404
+2025-09-28T20:55:07.901501+00:00,4,girishrizal56@gmail.com,failed,magic_http_404
+2025-09-28T20:55:08.646651+00:00,5,hmariejosee@yahoo.com,failed,magic_http_404
+2025-09-28T20:55:09.380566+00:00,6,bintouj2007@gmail.com,failed,magic_http_404
+2025-09-28T20:55:10.121107+00:00,7,singlenjuguna@gmail.com,failed,magic_http_404
+2025-09-28T20:55:10.921120+00:00,8,1boy.2girlsllc@gmail.com,failed,magic_http_404
+2025-09-28T20:55:11.582734+00:00,9,brad@concordis.net,failed,magic_http_404
+2025-09-28T20:55:12.350412+00:00,10,admin@ling-liang.com,failed,magic_http_404
+2025-09-28T20:55:13.053915+00:00,11,stevenstockton250x@gmail.com,failed,magic_http_404
+2025-09-28T20:55:13.764290+00:00,12,main.1stopehm@outlook.com,failed,magic_http_404
+2025-09-28T20:55:14.536030+00:00,13,1timeautomotive@gmail.com,failed,magic_http_404
+2025-09-28T20:55:15.218366+00:00,14,ssromerogoertz@gmail.com,failed,magic_http_404
+2025-09-28T20:55:15.901384+00:00,15,paul@1worldglobes.com,failed,magic_http_404
+2025-09-28T20:55:16.614386+00:00,16,fireinterviewprep@gmail.com,failed,magic_http_404
+2025-09-28T20:55:17.366497+00:00,17,aaronplant@live.com,failed,magic_http_404
+2025-09-28T20:55:18.075704+00:00,18,doug@mwaseattle.com,failed,magic_http_404
+2025-09-28T20:55:18.733724+00:00,19,jsin@lowtideproperties.com,failed,magic_http_404
+2025-09-28T20:55:19.363606+00:00,20,abella111@gmail.com,failed,magic_http_404
+2025-09-28T20:55:20.037490+00:00,21,judetorreta@gmail.com,failed,magic_http_404
+2025-09-28T20:55:20.657762+00:00,22,debbielynnaube@gmail.com,failed,magic_http_404
+2025-09-28T20:56:54.045055+00:00,1,sandjsolutions21@gmail.com,failed,"HTTP 502: {""detail"":""Error SMTP: build_message() got an unexpected keyword argument 'recipients'""}"
+2025-09-28T20:56:55.067282+00:00,2,muthoni1982@gmail.com,failed,"HTTP 502: {""detail"":""Error SMTP: build_message() got an unexpected keyword argument 'recipients'""}"
+2025-09-28T20:56:56.084281+00:00,3,pauls3rp@yahoo.com,failed,"HTTP 502: {""detail"":""Error SMTP: build_message() got an unexpected keyword argument 'recipients'""}"
+2025-09-28T20:56:57.101401+00:00,4,girishrizal56@gmail.com,failed,"HTTP 502: {""detail"":""Error SMTP: build_message() got an unexpected keyword argument 'recipients'""}"
+2025-09-28T20:56:58.118498+00:00,5,hmariejosee@yahoo.com,failed,"HTTP 502: {""detail"":""Error SMTP: build_message() got an unexpected keyword argument 'recipients'""}"
+2025-09-28T20:56:59.136484+00:00,6,bintouj2007@gmail.com,failed,"HTTP 502: {""detail"":""Error SMTP: build_message() got an unexpected keyword argument 'recipients'""}"
+2025-09-28T20:57:00.154523+00:00,7,singlenjuguna@gmail.com,failed,"HTTP 502: {""detail"":""Error SMTP: build_message() got an unexpected keyword argument 'recipients'""}"

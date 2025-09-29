@@ -1,0 +1,65 @@
+{
+  "fecha_procesamiento": "2025-09-10 16:54:06",
+  "registros_originales": 192848,
+  "registros_finales": 94447,
+  "registros_eliminados": 98401,
+  "porcentaje_retencion": 48.9748402887248,
+  "columnas_procesadas": [
+    "BusinessID",
+    "UBI Number",
+    "Business Name",
+    "Responsible Person",
+    "Email",
+    "Address",
+    "NextARDueDate"
+  ],
+  "estadisticas_completitud": {
+    "BusinessID": {
+      "valores_no_nulos": 94447,
+      "porcentaje_completitud": 100.0,
+      "valores_unicos": 94447
+    },
+    "UBI Number": {
+      "valores_no_nulos": 94447,
+      "porcentaje_completitud": 100.0,
+      "valores_unicos": 94447
+    },
+    "Business Name": {
+      "valores_no_nulos": 94447,
+      "porcentaje_completitud": 100.0,
+      "valores_unicos": 94443
+    },
+    "Responsible Person": {
+      "valores_no_nulos": 94447,
+      "porcentaje_completitud": 100.0,
+      "valores_unicos": 60787
+    },
+    "Email": {
+      "valores_no_nulos": 92924,
+      "porcentaje_completitud": 98.38745539826569,
+      "valores_unicos": 73514
+    },
+    "Address": {
+      "valores_no_nulos": 93704,
+      "porcentaje_completitud": 99.2133154044067,
+      "valores_unicos": 80857
+    },
+    "NextARDueDate": {
+      "valores_no_nulos": 0,
+      "porcentaje_completitud": 0.0,
+      "valores_unicos": 0
+    }
+  },
+  "archivos_generados": [
+    "/home/taylerk/Documentos/smtp-mass-sender/actividad/actividad_final.csv",
+    "/home/taylerk/Documentos/smtp-mass-sender/actividad/backup/actividad_final_20250910_165405.csv"
+  ],
+  "estadisticas_detalladas": {
+    "emails_validos": 92924,
+    "emails_porcentaje": 98.38745539826569,
+    "fechas_validas": 0,
+    "fechas_porcentaje": 0.0,
+    "businessid_unicos": 94447,
+    "ubi_unicos": 94447
+  }
+}
